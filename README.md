@@ -1,11 +1,41 @@
-# Hi, I'm [Sabita Neupane](http://sabitaneupane.github.io/)
-## React Developer
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Sabita Neupane](http://nsabita.com.np/)
+## A Software Developer From Nepal
+> Software Engineer | Frontend Developer | Tech Community Volunteer | Tech Mentor | nsabita.com.np |
 
+- 🌱  I'm familiar with **JavaScript, React, AWS, and Golang**
 
-> A Frontend developer working in single page application with the primary focus on developing user interface components and implementing them following well-known tools such as React.js, Redux, Enzyme and Jest.
+## Professional Skills
+- Hands-on knowledge of developing Frontend components and web applications using HTML, CSS, JavaScript, Typescript, ReactJS, SASS, NodeJS, and ExpressJS
+- Experience working on Microfrontend and Microservice based web applications
+- Write Reusable UI components and libraries using React Styleguidist 
+- Unit Testing using Jest, Enzyme, and React Testing Library
+- CI/CD using Github Action and contributed to workflows
+- End to End Test Automation using Cypress.io
+- AWS services like DynamoDB, Elasticsearch, CloudFormation, Lambdas, S3 bucket, Elastic Container Registry, and many more for various use-cases
+- Work collaboratively in an Agile team to deliver team commitments and goals
+- Basic understanding of Golang, Ruby, and ROR based applications
+
+<br/>
 
 ### Stay in Touch with Me
-* [Facebook](https://www.facebook.com/imsabitaneupane)
-* [Twitter](https://twitter.com/imsabitaneupane)
-* [LinkedIn](https://www.linkedin.com/in/imsabitaneupane/)
-* [Medium](https://medium.com/@imsabitaneupane)
+<a href="https://www.facebook.com/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://twitter.com/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Instagram"></a>
+<a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Youtube-D00000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
+
+<br/>
+
+## 📊 Github Stats
+<span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaneupane&theme=dark&layout=compact&langs_count=10" /></span>
+
+<span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api?username=sabitaneupane&show_icons=true&count_private=true&theme=dark" /></span>
+
+<br/>
+
+## ⚡ Recent GitHub Activity
+<span><img alt="sabitaneupane's Activity Graph" width="260px" height="158px" src="https://activity-graph.herokuapp.com/graph?username=sabitaneupane&custom_title=sabitaneupane's%20Contribution%20Graph&theme=react-dark" /></span>
+
+## 🏆 Git Profile Trophies
+
+<span><img align="center" src="https://github-profile-trophy.vercel.app/?username=sabitaneupane&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" /></span>
