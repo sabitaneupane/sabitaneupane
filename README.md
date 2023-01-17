@@ -21,6 +21,5 @@
 <a href="https://www.facebook.com/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Instagram"></a>
-<a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Youtube-D00000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
-
+<a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://www.youtube.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Youtube-D00000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
