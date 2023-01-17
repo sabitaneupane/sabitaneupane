@@ -24,18 +24,3 @@
 <a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Medium-%230A0A0A.svg?&style=flat-square&logo=medium&logoColor=white" alt="Instagram"></a>
 <a href="https://medium.com/@imsabitaneupane" target="_blank"><img src="https://img.shields.io/badge/Youtube-D00000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 
-<br/>
-
-## 📊 Github Stats
-<span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabitaneupane&theme=dark&layout=compact&langs_count=10" /></span>
-
-<span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api?username=sabitaneupane&show_icons=true&count_private=true&theme=dark" /></span>
-
-<br/>
-
-## ⚡ Recent GitHub Activity
-<span><img alt="sabitaneupane's Activity Graph" width="260px" height="158px" src="https://activity-graph.herokuapp.com/graph?username=sabitaneupane&custom_title=sabitaneupane's%20Contribution%20Graph&theme=react-dark" /></span>
-
-## 🏆 Git Profile Trophies
-
-<span><img align="center" src="https://github-profile-trophy.vercel.app/?username=sabitaneupane&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)" /></span>
