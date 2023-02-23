@@ -1,19 +1,23 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Sabita Neupane](http://nsabita.com.np/)
 ## A Software Developer From Nepal
-> Software Engineer | Frontend Developer | Tech Community Volunteer | Tech Mentor | nsabita.com.np |
+> Software Engineer | Frontend Developer | Tech Community Volunteer | Tech Mentor
 
-- 🌱  I'm familiar with **JavaScript, React, AWS, and Golang**
+- 🌱  I'm familiar with **JavaScript, React, Typescript, AWS, and Golang**
 
 ## Professional Skills
-- Hands-on knowledge of developing Frontend components and web applications using HTML, CSS, JavaScript, Typescript, ReactJS, SASS, NodeJS, and ExpressJS
-- Experience working on Microfrontend and Microservice based web applications
-- Write Reusable UI components and libraries using React Styleguidist 
-- Unit Testing using Jest, Enzyme, and React Testing Library
-- CI/CD using Github Action and contributed to workflows
-- End to End Test Automation using Cypress.io
-- AWS services like DynamoDB, Elasticsearch, CloudFormation, Lambdas, S3 bucket, Elastic Container Registry, and many more for various use-cases
-- Work collaboratively in an Agile team to deliver team commitments and goals
-- Basic understanding of Golang, Ruby, and ROR based applications
+
+- **Frontend Technologies:** HTML, CSS, Bootstrap, JavaScript, TypeScript, SCSS
+- **JS Libraries:** ReactJS, ElectronJS, Formik 
+- **Backend Technologies:** NodeJS, ExpressJS, Golang
+- **Database:** MongoDB
+- **API Types:** Rest API, Graphql
+- **Testing Libraries:** Jest and React Testing Library(Unit Testing) , Cypress (Automation Testing)
+- **Testing Tools:** Postman (API testing), JMeter (Performance and stress testing)
+- **AWS Service:** DynamoDB, ElasticSearch, CloudFormation, Lambdas, S3 bucket, ECS, CloudFront, CloudWatch
+- **Automation Workflow:** CI/CD using Github Action
+- **Monitoring and Logging Tools:** Newrelic, CloudWatch
+- **Documentation:** Swagger
+- **Other Tools:** Docker, SonarCloud(Code Analysis Tools)
 
 <br/>
 
