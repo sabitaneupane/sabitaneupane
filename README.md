@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [Sabita Neupane](http://nsabita.com.np/)
+# Hi, I'm [Sabita Neupane](http://nsabita.com.np/)
 ## A Software Developer From Nepal
 > Software Engineer | Frontend Developer | Tech Community Volunteer | Tech Mentor
 
